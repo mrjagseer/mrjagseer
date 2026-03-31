@@ -1,167 +1,190 @@
 # Hi, I'm Jagseer Singh 👋
 
-**Senior Full Stack Engineer | Technical Lead**  
-Building scalable backend systems, cloud-native platforms, and high-performance web applications for 13+ years.
+### 🚀 Building Scalable CRMs & Cloud Systems | Senior Full Stack Engineer | Technical Lead
 
-## About Me
-
-I’m a Senior Full Stack Engineer with strong experience in backend architecture, distributed systems, cloud infrastructure, and team leadership. I specialize in building scalable products using **Node.js, PHP/Laravel, React, AWS, and Terraform**.
-
-I’ve worked on platforms serving **millions of users**, optimized systems for major performance gains, and led engineering initiatives across **multi-tenant architecture, DevOps automation, CI/CD, and data pipelines**.
-
-Currently open to **Technical Lead** and **Engineering Manager** opportunities where I can combine hands-on architecture with leadership and strategic technical direction.
+> Specialized in developing **high-performance CRM systems** that improve business productivity and operational efficiency.
 
 ---
 
-## 🤝 Connect With Me
+## 🧠 About Me
 
-- **LinkedIn:** [jagseer-singh-developer](https://www.linkedin.com/in/jagseer-singh-developer/)
+I’m a Senior Full Stack Engineer with 13+ years of experience designing and building **scalable CRM platforms, backend systems, and cloud-native applications**.
+
+I specialize in turning complex business workflows into **powerful internal tools** that drive real results.
+
+### 💡 What I’m Known For
+
+- 🏗 Building **custom CRM systems from scratch**
+- ⚡ Improving operational efficiency by **70%–90%**
+- 🌐 Designing **multi-tenant SaaS platforms**
+- ☁️ Scaling systems on AWS with modern DevOps practices
+- 👨‍💻 Leading engineering teams and architecture decisions
 
 ---
 
-## 🚀 What I Do
+## 🏆 CRM Expertise (Core Strength)
 
-- Design scalable backend systems and APIs
-- Build multi-tenant and distributed architectures
-- Lead technical strategy and mentor engineering teams
-- Improve system reliability, performance, and deployment workflows
-- Build cloud-native infrastructure on AWS
-- Automate CI/CD and developer workflows
+I specialize in **CRM development tailored to real business workflows**:
+
+### 📌 Key CRM Success Stories
+
+#### 🏢 Property.ca Internal CRM
+- Built the **first CRM for internal real estate agents**
+- Enabled efficient deal tracking, listing workflows, and agent productivity
+- Improved internal operations significantly
+
+#### 🏠 myAbode Deal Processing CRM
+- Designed CRM for **internal deal processing across teams**
+- Automated workflows and multi-tenant handling
+- Reduced onboarding time drastically and streamlined operations
+
+#### 🎓 MLC College CRM (SapSol Technologies)
+- Built CRM for admissions and student lifecycle management
+- Improved organizational productivity by **90%**
+- Integrated payments, workflows, and document handling
+
+---
+
+## 🚀 Featured Projects (Personal Impact)
+
+### 🇨🇦 Canadian Workforce Platforms
+
+Helping connect **job seekers and employers across all walks of life in Canada**:
+
+- 🌐 https://canadaworkdirectory.ca/
+- 🌐 https://newcomerhiring.ca/
+- 🌐 https://jobsforrefugee.ca/
+- 🌐 https://aboriginaljobportal.ca/
+
+**Impact:**
+- Supporting newcomers, refugees, and Indigenous communities
+- Active employers posting jobs
+- Real-world hiring ecosystem across Canada
+
+---
+
+### 🔐 SSL Monitoring & Domain Security Platform
+
+**Project:** https://sslmon.net/
+
+A modern tool for **SSL certificate monitoring, validation, and alerting**
+
+#### ✨ Key Features
+
+- 🔍 Certificate details at a glance  
+  (issuer, validity, SANs, serial number)
+
+- ⏳ Expiry monitoring with urgency indicators  
+  (track days remaining, prevent downtime)
+
+- 🛡 Security & trust validation  
+  (browser compatibility + certificate trust checks)
+
+- 🔗 Trust chain analysis & grading  
+
+- ⚡ Instant SSL checks  
+  (validate domains before launch or after updates)
+
+- 🌐 DNS & SAN visibility  
+  (understand domain coverage and resolution)
+
+- 🔔 Multi-channel alerts  
+  (Email, SMS, Slack, Telegram)
+
+#### 🔄 Workflow
+
+1. Run guided SSL analysis  
+2. Monitor domains continuously  
+3. Get alerts before failures happen  
+
+---
+
+### 🧾 AR Portal (Active Project)
+
+**Project:** https://arportal.ca/
+
+A **multi-tenant SaaS platform** designed for immigration consultants.
+
+#### 🎯 Goal
+- Consolidate workflows into one system  
+- Improve operational efficiency  
+- Provide scalable tools for managing clients, documents, and processes  
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
-- PHP
-- JavaScript
-- TypeScript
-- Node.js
+- PHP, JavaScript, TypeScript, Node.js
 
-### Frameworks & Libraries
-- Laravel
-- React
-- AngularJS
+### Frameworks
+- Laravel, React, AngularJS
 
 ### Databases
-- MySQL
-- PostgreSQL
-- MongoDB
-- SingleStore
+- MySQL, PostgreSQL, MongoDB, SingleStore
 
-### Cloud & Infrastructure
-- AWS (ECS, API Gateway, CloudFront, S3)
-- Terraform
-- Docker
+### Cloud & DevOps
+- AWS (ECS, S3, API Gateway, CloudFront)
+- Terraform, Docker
+- GitHub Actions, Bitbucket Pipelines
 
-### DevOps & Tooling
-- GitHub Actions
-- Bitbucket Pipelines
-- CI/CD
-- Linux
-
-### Monitoring & Observability
-- Datadog
-- Bugsnag
-
-### Search & Messaging
-- Algolia
-- FCM / GCM
-
-### CMS
-- WordPress
-- WooCommerce
-- Drupal
-- BuddyPress
+### Tools & Integrations
+- Algolia, Datadog, Bugsnag
+- FCM / Push Notifications
+- REST APIs, Microservices
 
 ---
 
-## 📌 Key Achievements
-
-- Reduced tenant onboarding time from **2 weeks to 1 hour** through automation
-- Improved platform page load time by **70%** through backend optimization and search indexing
-- Built and scaled systems serving **3M+ users** and billions of records
-- Led infrastructure migration from **DigitalOcean to AWS ECS with Terraform**
-- Introduced Docker-based development environments to improve developer productivity
-
----
-
-## 💼 Experience
+## 💼 Experience Highlights
 
 ### Senior Full Stack Engineer — myAbode
-**Sep 2024 – Present | Toronto, ON**
+- Leading architecture of a **multi-tenant CRM platform**
+- Building scalable APIs and automation workflows
+- Improving system performance and developer productivity
 
-- Leading system design and architecture for a multi-tenant deal processing platform
-- Designing scalable backend and API systems with internal and third-party integrations
-- Building microservices and event-driven workflows for automation and reporting
-- Managing AWS infrastructure including API Gateway, Load Balancers, and CloudFront
-- Improving CI/CD pipelines with GitHub Actions
-- Mentoring junior engineers and guiding architecture best practices
-
-**Tech:** Node.js, React, AWS, GitHub Actions, REST APIs, Microservices
-
----
-
-### Senior Back-End Engineer — Property.ca / Condos.ca / Mr-Loft
-**Nov 2021 – Dec 2024 | Toronto, ON**
-
-- Led backend architecture for high-traffic real estate platforms serving 3M+ users
-- Built scalable backend services and APIs with Laravel
-- Designed distributed systems for listing ingestion, search indexing, and synchronization
-- Improved website performance by ~70%
-- Migrated infrastructure to AWS ECS using Terraform
-- Introduced Docker-based development and CI/CD pipelines
-- Mentored engineers and led code reviews
-
-**Tech:** Laravel, PHP, MongoDB, MySQL, SingleStore, AWS ECS, Terraform, Docker, Algolia
-
----
+### Senior Backend Engineer — Property.ca
+- Built systems serving **3M+ users**
+- Improved performance by **~70%**
+- Designed distributed architecture and search systems
 
 ### Application Developer — SapSol Technologies
-**Jul 2020 – Nov 2021 | Mississauga, ON**
-
-- Built commerce and service-based platforms using Laravel and PostgreSQL
-- Developed secure REST APIs with authentication and role-based access control
-- Implemented subscription systems, recurring payments, and financial workflows
-- Built admissions and application management systems
-- Integrated PDF generation, push notifications, and payment providers
-
-**Tech:** PHP, Laravel, JavaScript, PostgreSQL, Azure, Bitbucket, GitHub
+- Delivered CRM solutions and business platforms
+- Built systems that improved productivity by **up to 90%**
 
 ---
 
-### Earlier Experience
-- **Web Developer** — Canada Brand Builders
-- **Web Developer (Remote)** — Upwork
-- **Senior PHP Developer** — IT Corporates
-- **Web Developer** — CloutSoft Technologies
-- **Junior Web Developer** — Spectrum Technology
+## 📈 Key Achievements
 
----
-
-## 🌐 Projects
-
-- [myAbode Enterprise](https://www.myabodeenterprise.ca)
-- [Property.ca](https://property.ca)
-- [Condos.ca](https://condos.ca)
-- [Mr-Loft](https://mr-loft.ca)
-- [MLC College](https://mlccollege.com)
-- [RoboCart](https://robocart.ca)
-- [RoboCart AI](https://robocart.ai)
-- [Canada Brand Builders](https://canadabrandbuilders.com)
+- 🚀 Reduced onboarding time from **2 weeks → 1 hour**
+- ⚡ Improved platform performance by **~70%**
+- 👥 Built systems serving **millions of users**
+- 🧩 Designed multiple **production-grade CRM systems**
+- ☁️ Migrated infrastructure to AWS with Terraform
 
 ---
 
 ## 🎓 Education
 
-**PG Diploma in Computer Software & Database Development**  
-Lambton College Toronto  
-2018 – 2020
-
-**Bachelor of Computer Science and Engineering**  
-Yadavindra College of Engineering, Talwandi Sabo  
-2009 – 2013
-
-
+- PG Diploma — Computer Software & Database Development (Lambton College)
+- Bachelor of Computer Science & Engineering
 
 ---
+
+## 🤝 Connect With Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/jagseer-singh-developer/
+- 📧 Email: singhjagseer11@gmail.com
+
+---
+
+## 🧭 What I’m Focused On
+
+- CRM Systems & Internal Tools
+- SaaS & Multi-Tenant Architecture
+- Backend & Distributed Systems
+- Cloud Infrastructure (AWS)
+- DevOps & Automation
+
+---
+
+> I build systems that solve real business problems — scalable, reliable, and impactful.
