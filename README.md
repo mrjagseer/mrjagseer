@@ -13,6 +13,12 @@ Currently open to **Technical Lead** and **Engineering Manager** opportunities w
 
 ---
 
+## 🤝 Connect With Me
+
+- **LinkedIn:** [jagseer-singh-developer](https://www.linkedin.com/in/jagseer-singh-developer/)
+
+---
+
 ## 🚀 What I Do
 
 - Design scalable backend systems and APIs
@@ -156,11 +162,6 @@ Lambton College Toronto
 Yadavindra College of Engineering, Talwandi Sabo  
 2009 – 2013
 
----
 
-## 🤝 Connect With Me
-
-- **LinkedIn:** [jagseer-singh-developer](https://www.linkedin.com/in/jagseer-singh-developer/)
-- **Email:** singhjagseer11@gmail.com
 
 ---
